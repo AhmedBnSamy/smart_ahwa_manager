@@ -84,7 +84,7 @@ The architecture promotes **modularity** and **abstraction**, aligning with *The
 
 - **Flutter**: Cross-platform framework for Android and iOS.
 - **Dart**: Programming language for app logic.
-- **Provider**: State management and dependency injection.
+- **Provider**: State management 
 - **SOLID Principles**: SRP, OCP, DIP for clean code.
 
 ## 📁 Project Structure
